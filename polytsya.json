@@ -54,6 +54,12 @@
         "version": "v0.1.0"
     },
 
+    "rivnjannja": {
+        "description": "Improved equation handling and numbering.",
+        "repository": "tarleb/rivnjannja",
+        "version": "v0.1.0"
+    },
+
     "run-lua": {
         "description": "Execute embedded Lua instructions in the document.",
         "repository": "pandoc-ext/run-lua",
